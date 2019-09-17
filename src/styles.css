@@ -1,0 +1,10 @@
+body {
+    background-color: lightcoral;
+}
+header>h1  {
+    color: greenyellow;
+}
+.answer {
+    color: greenyellow;
+    font-size: 48px;
+}
